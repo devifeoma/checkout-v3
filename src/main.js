@@ -7,6 +7,7 @@ import "./assets/css/style.css";
 
 Vue.config.productionTip = false;
 
+
 new Vue({
   router,
   store,
