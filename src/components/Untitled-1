@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Flutterwave";
+  src: url(assets/Flutterwave/Flutterwave/OpenType-TT/Flutterwave-Black.ttf)
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Flw-black-italic";
+  src: url(assets/Flutterwave/Flutterwave/OpenType-TT/FLW-Black-Italic.ttf)
+    format("truetype");
+}
+
+@font-face {
+  font-family: "FLW-Bold-Italic";
+  src: url(assets/Flutterwave/Flutterwave/OpenType-TT/FLW-Bold-Italic.ttf)
+    format("truetype");
+}
+
+@font-face {
+  font-family: "FLW-Bold";
+  src: url(assets/Flutterwave/Flutterwave/OpenType-TT/FLW-Bold.ttf)
+    format("truetype");
+}
+
+@font-face {
+  font-family: "FLW-Regular";
+  src: url(assets/Flutterwave/Flutterwave/OpenType-TT/FLW-Regular.ttf)
+    format("truetype");
+}
+
+@font-face {
+  font-family: "FLW-Italic";
+  src: url(assets/Flutterwave/Flutterwave/OpenType-TT/FLW-Italic.ttf)
+    format("truetype");
+}
